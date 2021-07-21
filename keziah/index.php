@@ -33,6 +33,7 @@
                 <br>
                 Hostel owners are required to provide valid information about their hostels so
                 as to enhance reliability of our service.
+                It was created and designed by Maureen Keziah
             </blockquote>
         </div>
     </div>
